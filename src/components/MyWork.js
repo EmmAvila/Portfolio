@@ -110,14 +110,14 @@ function MyWork() {
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="../portfolio-images/word-game/presentancion.png"
+                      src="../portfolio-images/word-game/Presentancion.png"
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="../portfolio-images/word-game/profile.png"
+                      src="../portfolio-images/word-game/Profile.png"
                       className="d-block w-100 h-200"
                       alt="..."
                     />

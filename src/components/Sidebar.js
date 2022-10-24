@@ -1,22 +1,16 @@
 import React, { Fragment } from "react";
 import { VscHome } from "react-icons/vsc";
 import { FiUser } from "react-icons/fi";
+import { AiOutlineLaptop } from "react-icons/ai";
+
 import { BsCode } from "react-icons/bs";
+import { FaLaptopCode } from "react-icons/fa";
+
 import eng from "../cv_eng.pdf";
 import esp from "../cv_esp.pdf";
 
-import {
-  MdOutlineDashboard,
-  MdOutlineContactPage,
-  MdEmail,
-  MdLanguage,
-} from "react-icons/md";
-import {
-  AiFillLinkedin,
-  AiOutlineFilePdf,
-  AiFillGithub,
-  AiOutlineUnorderedList,
-} from "react-icons/ai";
+import { MdOutlineDashboard, MdLanguage } from "react-icons/md";
+import { AiFillLinkedin, AiOutlineFilePdf, AiFillGithub } from "react-icons/ai";
 import { Link, NavLink } from "react-router-dom";
 
 function Sidebar() {
@@ -55,7 +49,7 @@ function Sidebar() {
                 to="/skills"
                 className="nav-link align-middle px-0 text-white"
               >
-                <BsCode className="fs-5" />
+                <AiOutlineLaptop className="fs-5" />
                 <span className="ms-1 d-none d-sm-inline ">Skills</span>
               </NavLink>
             </li>
