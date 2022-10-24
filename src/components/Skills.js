@@ -12,7 +12,7 @@ function Skills() {
                   className="font-big slide-in-top"
                   style={{ color: "#02777f" }}
                 >
-                  Technologies I know
+                  Technologies I know vamos a llaasd
                 </h1>
                 <hr></hr>
 
@@ -20,7 +20,7 @@ function Skills() {
                   <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
                     <img
                       className="technology-image  slide-in-bottom-technology"
-                      src="../images/React.png"
+                      src="../images/react.png"
                       alt="React"
                     ></img>
                   </div>
@@ -61,9 +61,10 @@ function Skills() {
                       alt="PostgreSQL"
                     ></img>
                   </div>
-                  <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
+                  <div className="col-lg-3 col-md-3 pt-4 col-sm-4 col-6 d-flex justify-content-center">
                     <img
                       className="technology-image  slide-in-bottom-technology"
+                      style={{ height: 90 }}
                       src="../images/flutter.png"
                       alt="Flutter"
                     ></img>
