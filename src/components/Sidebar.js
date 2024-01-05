@@ -6,8 +6,8 @@ import { AiOutlineLaptop } from "react-icons/ai";
 import { BsCode } from "react-icons/bs";
 import { FaLaptopCode } from "react-icons/fa";
 
-import eng from "../cv_eng.pdf";
-import esp from "../cv_esp.pdf";
+import eng from "../Cv-Mobile.pdf";
+import esp from "../Cv-Movil.pdf";
 
 import { MdOutlineDashboard, MdLanguage } from "react-icons/md";
 import { AiFillLinkedin, AiOutlineFilePdf, AiFillGithub } from "react-icons/ai";

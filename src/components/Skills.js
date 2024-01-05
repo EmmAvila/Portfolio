@@ -12,11 +12,26 @@ function Skills() {
                   className="font-big slide-in-top"
                   style={{ color: "#02777f" }}
                 >
-                  Technologies I know vamos a llaasd
+                  Technologies I know
                 </h1>
                 <hr></hr>
 
                 <div className="row my-2">
+                  <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
+                    <img
+                      className="technology-image  slide-in-bottom-technology"
+                      src="../images/kotlin.png"
+                      alt="Kotlin"
+                    ></img>
+                  </div>
+                  <div className="col-lg-3 col-md-3 pt-4 col-sm-4 col-6 d-flex justify-content-center">
+                    <img
+                      className="technology-image  slide-in-bottom-technology"
+                      style={{ height: 90 }}
+                      src="../images/flutter.png"
+                      alt="Flutter"
+                    ></img>
+                  </div>
                   <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
                     <img
                       className="technology-image  slide-in-bottom-technology"
@@ -29,44 +44,6 @@ function Skills() {
                       className="technology-image  slide-in-bottom-technology"
                       src="../images/js.png"
                       alt="Java Script"
-                    ></img>
-                  </div>
-                  <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
-                    <img
-                      className="technology-image  slide-in-bottom-technology"
-                      src="../images/html.png"
-                      alt="Html"
-                    ></img>
-                  </div>
-                  <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
-                    <img
-                      className="technology-image  slide-in-bottom-technology"
-                      src="../images/css.png"
-                      alt="Css"
-                    ></img>
-                  </div>
-
-                  <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
-                    <img
-                      className="technology-image  slide-in-bottom-technology"
-                      src="../images/seq.png"
-                      alt="Sequelize"
-                    ></img>
-                  </div>
-
-                  <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
-                    <img
-                      className="technology-image  slide-in-bottom-technology"
-                      src="../images/postgresql.png"
-                      alt="PostgreSQL"
-                    ></img>
-                  </div>
-                  <div className="col-lg-3 col-md-3 pt-4 col-sm-4 col-6 d-flex justify-content-center">
-                    <img
-                      className="technology-image  slide-in-bottom-technology"
-                      style={{ height: 90 }}
-                      src="../images/flutter.png"
-                      alt="Flutter"
                     ></img>
                   </div>
                 </div>

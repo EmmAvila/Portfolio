@@ -21,7 +21,7 @@ function About() {
                 </h1>
                 <hr></hr>
                 <p className="slide-in-bottom">
-                  FullStack Web Developer with learning, organization,
+                  Mobile Android Developer with learning, organization and
                   communication skills, committed and team player. <br></br>
                 </p>
                 <p className="slide-in-bottom">
@@ -30,14 +30,13 @@ function About() {
                   projects with the latest technologies.
                 </p>
                 <p className="slide-in-bottom ">
-                  Previously worked as Full stack web developer.<br></br>
-                  The technology I've worked on :{" "}
+                  Previously worked as Android developer.<br></br>
+                  Technologies I've worked on :{" "}
                   <span
                     className="ls-2 fw-semibold"
                     style={{ color: "#02777f" }}
                   >
-                    JavaScript, React Js, React Native, Node Js, Sequelize,
-                    PostgreSQL, Html, Css, Tailwind.{" "}
+                    Kotlin, Flutter, JavaScript, React Native.{" "}
                   </span>
                 </p>
                 <p className="slide-in-bottom">
@@ -46,14 +45,14 @@ function About() {
                     className="ls-2 fw-semibold"
                     style={{ color: "#02777f" }}
                   >
-                    Flutter
+                    Quality Assurance
                   </span>{" "}
                   and improving my knwoledge on{" "}
                   <span
                     className="ls-2 fw-semibold"
                     style={{ color: "#02777f" }}
                   >
-                    React Native
+                    Kotlin
                   </span>
                 </p>
                 <div>
