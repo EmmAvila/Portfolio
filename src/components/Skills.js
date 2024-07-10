@@ -47,6 +47,23 @@ function Skills() {
                     ></img>
                   </div>
                 </div>
+                <div className="row my-2">
+                  <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
+                    <img
+                      className="technology-image  slide-in-bottom-technology"
+                      src="../images/selenium.png"
+                      alt="selenium"
+                    ></img>
+                  </div>
+                  <div className="col-lg-3 col-md-3 pt-4 col-sm-4 col-6 d-flex justify-content-center">
+                    <img
+                      className="technology-image  slide-in-bottom-technology"
+                      style={{ height: 90 }}
+                      src="../images/postm.png"
+                      alt="postman"
+                    ></img>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="col-lg-6 col-md-12 col-sm-12">

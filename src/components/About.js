@@ -21,22 +21,27 @@ function About() {
                 </h1>
                 <hr></hr>
                 <p className="slide-in-bottom">
-                  Mobile Android Developer with learning, organization and
-                  communication skills, committed and team player. <br></br>
+                  QA Enginner & Mobile Android Developer with learning,
+                  organization and communication skills, committed and team
+                  player. <br></br>
                 </p>
                 <p className="slide-in-bottom">
-                  Currently looking for new opportunities in mobile development
-                  industry and willing to work on challenging and diverse
-                  projects with the latest technologies.
+                  I am currently looking for new opportunities in mobile
+                  development industry and willing to work on challenging and
+                  diverse projects with the latest technologies, applying my
+                  knowledge of quality assurance to create the best solutions
+                  for any challenge.
                 </p>
                 <p className="slide-in-bottom ">
-                  Previously worked as Android developer.<br></br>
+                  Previously worked as Android developer and QA Functional
+                  Tester.<br></br>
                   Technologies I've worked on :{" "}
                   <span
                     className="ls-2 fw-semibold"
                     style={{ color: "#02777f" }}
                   >
-                    Kotlin, Flutter, JavaScript, React Native.{" "}
+                    Kotlin, Flutter, JavaScript, React Native, Postman, Selenium
+                    (Python).{" "}
                   </span>
                 </p>
                 <p className="slide-in-bottom">
@@ -52,7 +57,7 @@ function About() {
                     className="ls-2 fw-semibold"
                     style={{ color: "#02777f" }}
                   >
-                    Kotlin
+                    Kotlin and Python.
                   </span>
                 </p>
                 <div>

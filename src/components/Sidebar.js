@@ -22,7 +22,7 @@ function Sidebar() {
       >
         <div className="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
           <span className="fs-5 d-none d-sm-inline ff-jost fw-600 mb-4">
-            Emmanuel
+            Emmanuel Avila
           </span>
 
           <ul
@@ -108,7 +108,8 @@ function Sidebar() {
                       href={eng}
                       target="/blank"
                     >
-                      <AiOutlineFilePdf className="fs-5 " /> CV (Eng)
+                      <AiOutlineFilePdf className="fs-5 " /> Emmanuel Avila
+                      (Eng)
                     </a>
                   </li>
                   <hr className="dropdown-divider" />
@@ -118,7 +119,7 @@ function Sidebar() {
                       href={esp}
                       target="/blank"
                     >
-                      <AiOutlineFilePdf className="fs-5" /> CV (Esp)
+                      <AiOutlineFilePdf className="fs-5" /> Emmanuel Avila (Esp)
                     </a>
                   </li>
                 </ul>

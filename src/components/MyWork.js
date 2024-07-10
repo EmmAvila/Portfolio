@@ -11,7 +11,9 @@ function MyWork() {
         <div className="p-4 slide-in-top">
           <div className="row">
             <div className="col-6">
-              <h2 className="ff-jose fw-bold ls-2">Some of my projects</h2>
+              <h2 className="ff-jose fw-bold ls-2">
+                Some of my Android developments
+              </h2>
             </div>
           </div>
           <hr></hr>
