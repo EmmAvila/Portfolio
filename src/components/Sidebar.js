@@ -6,8 +6,8 @@ import { AiOutlineLaptop } from "react-icons/ai";
 import { BsCode } from "react-icons/bs";
 import { FaLaptopCode } from "react-icons/fa";
 
-import eng from "../Cv-Mobile.pdf";
-import esp from "../Cv-Movil.pdf";
+import eng from "../cv.pdf";
+import esp from "../cv_es.pdf";
 
 import { MdOutlineDashboard, MdLanguage } from "react-icons/md";
 import { AiFillLinkedin, AiOutlineFilePdf, AiFillGithub } from "react-icons/ai";
@@ -41,7 +41,7 @@ function Sidebar() {
                 className="nav-link align-middle px-0 text-white"
               >
                 <FiUser className="fs-5" />
-                <span className="ms-1 d-none d-sm-inline ">About</span>
+                <span className="ms-1 d-none d-sm-inline ">About Me</span>
               </NavLink>
             </li>
             <li className="nav-item">

@@ -7,7 +7,14 @@ function Home() {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 col-md-12 col-sm-12 d-flex align-items-center">
-              <div>
+              <div className="col">
+                <img
+                  className="img-fluid mb-2"
+                  src="../images/Emma.jpeg"
+                  alt="..."
+                  height={200}
+                  width={200}
+                ></img>
                 <h1 className="m-0 font-big ">Hi, my name is Emmanuel</h1>
                 <p className="ls-2 mt-2 ">
                   I'm an Android Mobile Developer and QA Enginner.
